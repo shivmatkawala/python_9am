@@ -1,0 +1,15 @@
+9para = 'military'
+
+omega36 = 'Roadway to down'
+
+
+NAME = 'shiv'
+name = 'kumar'
+Name = 'Rajiv'
+NaMe = 'Sanjay'
+
+
+My_Name = "Sagar"
+
+
+
