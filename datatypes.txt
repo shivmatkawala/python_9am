@@ -1,0 +1,34 @@
+DATATYPES:-
+
+        # Data Types in any language is a vital part.
+        # Understanding data types gives you broader
+        # understanding of data handeling in programmes.
+
+    
+    TYPES OF DATA:-
+
+        Numeric datatypes:-
+            1) Integer
+            2) Float
+            3) Complex
+
+        
+        Textual datatypes:-
+            1) String
+
+        
+        Collection datatypes:-
+            1) List
+            2) Tuple
+            3) Set
+            4) Frozenset
+            5) Bytes
+            6) Bytearray
+            7) Range
+
+        Boolean datatypes:-
+            1) True
+            2) False
+
+        Dictionary datatype:-
+            1) Dictionary
